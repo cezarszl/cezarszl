@@ -42,7 +42,7 @@ Feel free to reach out to me through any of the following platforms:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cezarszal@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezary-szal/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cezarszl)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA5ElEQVR4nO2aQQrCMBBF36qHsheweC6tXtO2eowvQpTgytRWfso8+NDNtBkeGQgpBIE1DXABboC+zAT0qdaGc0EDnzlhxJQWtSuoaTMzNijlX3WrEY2woJFmxsRxyZRPvl8mjktOcyeOC20++ewmRyHv9UcjJiiMmKEwYobCiBkKIwUcgBEYgI6KjQzZ+68rfUPRSAFdsvK0sWcdtNnN3lLveUQYnO6WCq+Hu8FiVJj7pvdIrSgaMUNhxAyFETMURsxQGDFDYcTVyLSBg9VIuoNT5TmSLhL7zExNGVMTVr+BBJviAa5L22PlztEdAAAAAElFTkSuQmCC">)](http://www.cezaryszal.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA5ElEQVR4nO2aQQrCMBBF36qHsheweC6tXtO2eowvQpTgytRWfso8+NDNtBkeGQgpBIE1DXABboC+zAT0qdaGc0EDnzlhxJQWtSuoaTMzNijlX3WrEY2woJFmxsRxyZRPvl8mjktOcyeOC20++ewmRyHv9UcjJiiMmKEwYobCiBkKIwUcgBEYgI6KjQzZ+68rfUPRSAFdsvK0sWcdtNnN3lLveUQYnO6WCq+Hu8FiVJj7pvdIrSgaMUNhxAyFETMURsxQGDFDYcTVyLSBg9VIuoNT5TmSLhL7zExNGVMTVr+BBJviAa5L22PlztEdAAAAAElFTkSuQmCC">)](http://www.cezaryszal.com)
 
 
 
