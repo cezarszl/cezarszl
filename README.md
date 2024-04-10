@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
 
-## Toolbox 🧰
+### Toolbox 🧰
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a>
@@ -24,11 +24,9 @@
 <a href="https://jwt.io/" target="_blank"> <img src="https://img.shields.io/badge/JWT_auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT auth"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> </a>
-
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> </a>
-
 <a href="https://jsdoc.app/" target="_blank"> <img src="https://img.shields.io/badge/JSDoc-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JSDoc"/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
@@ -38,14 +36,14 @@
 <a href="https://ora.pm/" target="_blank"> <img src="https://img.shields.io/badge/Ora-3E4155?style=for-the-badge" alt="Ora"/> </a>
 </p>
 
-## Contact Me 📬
+### Contact Me 📬
 
 Feel free to reach out to me through any of the following platforms:
 
-- **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cezarszal@gmail.com)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezary-szal/)
-- **Twitter:** [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cezarszl)
-- **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=briefcase&logoColor=white)](http://www.cezaryszal.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cezarszal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezary-szal/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cezarszl)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA5ElEQVR4nO2aQQrCMBBF36qHsheweC6tXtO2eowvQpTgytRWfso8+NDNtBkeGQgpBIE1DXABboC+zAT0qdaGc0EDnzlhxJQWtSuoaTMzNijlX3WrEY2woJFmxsRxyZRPvl8mjktOcyeOC20++ewmRyHv9UcjJiiMmKEwYobCiBkKIwUcgBEYgI6KjQzZ+68rfUPRSAFdsvK0sWcdtNnN3lLveUQYnO6WCq+Hu8FiVJj7pvdIrSgaMUNhxAyFETMURsxQGDFDYcTVyLSBg9VIuoNT5TmSLhL7zExNGVMTVr+BBJviAa5L22PlztEdAAAAAElFTkSuQmCC">)](http://www.cezaryszal.com)
 
 
 
