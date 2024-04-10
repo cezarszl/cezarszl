@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Cezary! 👋
 
+- 🖥️ I’m a certified Full-stack developer based in Hannover.
+- 🌍 I'm open and willing to learn new skills, tools & programming languages.
+- ⚡ In my free time, I like watching football or esports and going to the gym.
 
-### Toolbox 🧰
+---
+
+## Toolbox 🧰
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a>
@@ -35,14 +40,17 @@
 <a href="https://ora.pm/" target="_blank"> <img src="https://img.shields.io/badge/Ora-3E4155?style=for-the-badge" alt="Ora"/> </a>
 </p>
 
-### Contact Me 📬
+---
+
+## Contact Me 📬
 
 Feel free to reach out to me through any of the following platforms:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cezarszal@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezary-szal/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cezarszl)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA5ElEQVR4nO2aQQrCMBBF36qHsheweC6tXtO2eowvQpTgytRWfso8+NDNtBkeGQgpBIE1DXABboC+zAT0qdaGc0EDnzlhxJQWtSuoaTMzNijlX3WrEY2woJFmxsRxyZRPvl8mjktOcyeOC20++ewmRyHv9UcjJiiMmKEwYobCiBkKIwUcgBEYgI6KjQzZ+68rfUPRSAFdsvK0sWcdtNnN3lLveUQYnO6WCq+Hu8FiVJj7pvdIrSgaMUNhxAyFETMURsxQGDFDYcTVyLSBg9VIuoNT5TmSLhL7zExNGVMTVr+BBJviAa5L22PlztEdAAAAAElFTkSuQmCC">)](http://www.cezaryszal.com)
+[![Portfolio](https://via.placeholder.com/20/0A66C2/FFFFFF?text=P)](http://www.cezaryszal.com)
+
 
 
 
