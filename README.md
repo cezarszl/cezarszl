@@ -49,7 +49,8 @@ Feel free to reach out to me through any of the following platforms:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cezarszal@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezary-szal/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cezarszl)
-[![Portfolio](https://via.placeholder.com/20/0A66C2/FFFFFF?text=P)](http://www.cezaryszal.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.cezaryszal.com)
+
 
 
 
