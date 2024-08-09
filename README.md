@@ -24,7 +24,8 @@
 <a href="https://expo.io/" target="_blank"> <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/> </a>
 <a href="https://mui.com/" target="_blank"> <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> </a>
-<a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> </a>
+<a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> </a>https://symfony.com/
+<a href="https://symfony.com/" target="_blank"> <img src="https://img.shields.io/badge/Symfony-777BB4?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/> </a>
 <a href="https://expressjs.com/" target="_blank"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/> </a>
 <a href="https://jwt.io/" target="_blank"> <img src="https://img.shields.io/badge/JWT_auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT auth"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> </a>
