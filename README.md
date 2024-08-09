@@ -34,6 +34,7 @@
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> </a>
 <a href="https://jsdoc.app/" target="_blank"> <img src="https://img.shields.io/badge/JSDoc-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JSDoc"/> </a>
+<a href="https://swagger.io/" target="_blank"> <img src="https://img.shields.io/badge/Swagger-84EA2C?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://trello.com/" target="_blank"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/> </a>
