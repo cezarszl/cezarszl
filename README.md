@@ -53,8 +53,11 @@ Feel free to reach out to me through any of the following platforms:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cezarszl)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.cezaryszal.com)
 
+---
 
+## My stats
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cezarszl)](https://git.io/streak-stats)
 
 
 <!--
