@@ -59,7 +59,7 @@ Feel free to reach out to me through any of the following platforms:
 
 ## My stats 📈
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cezarszl)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cezarszl&show_icons=true&theme=radical)
 
 
 <!--
