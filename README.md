@@ -59,7 +59,7 @@ Feel free to reach out to me through any of the following platforms:
 
 ## My stats 📈
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cezarszl&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cezarszl&theme=dracula)]([https://git.io/streak-stats](https://github-readme-streak-stats-dun-theta.vercel.app))
 
 
 <!--
