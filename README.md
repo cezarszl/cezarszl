@@ -59,7 +59,7 @@ Feel free to reach out to me through any of the following platforms:
 
 ## My stats 📈
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cezarszl)](https://git.io/streak-stats)
 
 
 <!--
